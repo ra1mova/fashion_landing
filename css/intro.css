@@ -1,0 +1,58 @@
+.intro{
+    width: 100%;
+    height: 100vh;
+    background: url(../images/bg.jpg) center no-repeat;
+    margin-bottom: 123px;
+}
+.intro_content{
+    width: 455px;
+    margin-bottom: 100px;
+}
+.content_theme{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #22262A;
+}
+.content_title{
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: #22262A;    
+}
+.content_text{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #22262A;
+}
+.intro_btn{
+    width: 147px;
+    height: 35px;
+    background-color: #22262A;
+    margin-top: 27px;
+    margin-right: 34px;
+    position: relative;
+    box-shadow: 0 5px 0px #3c354a;
+    transition-duration: 1s;
+    transition-property: all;
+}
+.intro_btn :hover{
+    top: 2px;
+    box-shadow: 0 3px 0px #3c354a;
+    background-color: #22262A;;
+}
+.intro_btn_text{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}

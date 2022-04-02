@@ -1,0 +1,37 @@
+.avone{
+    margin-bottom: 121px;
+}
+.avole_content{
+    height: 689px;
+    position: relative;
+}
+.avole1{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.avole2{
+    position: absolute;
+    right: 38px;
+}
+.avole3{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border: 22px solid white;
+    border-bottom: 0;
+}
+.btn_line{
+    position: absolute;
+    bottom: 41px;
+    right: 280px;
+}
+.avole_btn{
+    background-color: #fff;
+    cursor: pointer;
+}
+.line{
+    height: 1px;
+    width: 220px;
+    background: #22262A;
+}

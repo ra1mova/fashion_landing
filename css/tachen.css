@@ -1,0 +1,9 @@
+.tachen{
+    background: url(../images/bg_tachen.jpg);
+    height: 745px;
+    position: relative;
+}
+.tachen_content{
+    position: absolute;
+    bottom: 129px;
+}

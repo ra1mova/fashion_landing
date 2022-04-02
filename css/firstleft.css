@@ -1,0 +1,24 @@
+.first_block{
+    margin-bottom: 113px;
+}
+.first_left{
+    width: 50%;
+    height: 552px;
+    margin-right: 28px;
+    /* display: flex; */
+    /* align-content: space-between; */
+}
+.photo_1{
+    width: 551px;
+    height: 286px;
+    margin-bottom: 23px;
+}
+.photo_2{
+    width: 262px;
+    height: 265px;
+    margin-right: 23px;
+}
+.photo_3{
+    width: 260px;
+    height: 265px;
+}

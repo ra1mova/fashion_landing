@@ -1,0 +1,58 @@
+.women_title{
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #22262A;
+    margin-bottom: 15px;
+}
+.women_subtitle{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #22262A;
+    margin-bottom: 65px;
+}
+.col-4{
+    width: 25%;
+    margin-right: 22px;
+    margin-bottom: 111px;
+}
+.women1{
+    margin-bottom: 38px;
+}
+.item_name1{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    color: #22262A;
+}
+.item_name2{
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    color: #22262A;
+    margin-bottom: 3px;
+}
+.item_price{
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: red;    
+}
+.price_fix{
+    color: #22262A; 
+    text-decoration: line-through;
+    margin-right: 30px;
+}

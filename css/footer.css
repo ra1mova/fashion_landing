@@ -1,0 +1,109 @@
+.footer{
+    background: #F2F8FC;
+}
+.footer_left{
+    width: 50%;
+    margin-top: 115px;
+}
+.footer_title{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 37px;
+    color: #22262A;  
+    margin-bottom: 17px;  
+}
+.footer_subtitle{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: #22262A;
+    width: 360px;
+    margin-bottom: 41px;
+}
+.adress{
+    color: #22262A;
+}
+.location_box{
+    margin-bottom: 16px;
+}
+.email_adress{
+    color: #22262A;
+    /* text-decoration: underline; */
+}
+.footer_number{
+    margin-top: 7px;
+    color: #22262A;
+    margin-bottom: 16px;
+}
+.footer_right{
+    margin-top: 109px;
+    margin-bottom: 106px;
+}
+.footer_input{
+    border: none;
+    width: 432px;
+    height: 45px;
+    padding-left: 24px;
+}
+.loin{
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    align-items: center; 
+}
+.join{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    color: #22262A;   
+}
+.boxs{
+    margin-bottom: 70px;
+}
+.foot_shop_title{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #22262A;
+    margin-bottom: 6px;
+
+}
+.foot_shop_item{
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: #22262A;
+    margin-top: 21px;
+}
+.boxx{
+    display: flex;
+    justify-content: space-between;
+}
+.footer_2{
+    height: 93px;
+    background: #E7F5F8;
+}
+.footer_2_text{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: #22262A;
+    margin-top: 35px;
+}
+.div{
+    display: flex;
+    justify-content: center;
+}
