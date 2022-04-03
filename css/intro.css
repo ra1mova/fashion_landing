@@ -34,18 +34,9 @@
 .intro_btn{
     width: 147px;
     height: 35px;
-    background-color: #22262A;
+    background: #22262A;
     margin-top: 27px;
     margin-right: 34px;
-    position: relative;
-    box-shadow: 0 5px 0px #3c354a;
-    transition-duration: 1s;
-    transition-property: all;
-}
-.intro_btn :hover{
-    top: 2px;
-    box-shadow: 0 3px 0px #3c354a;
-    background-color: #22262A;;
 }
 .intro_btn_text{
     font-family: Poppins , sans-serif;
@@ -55,4 +46,13 @@
     line-height: 27px;
     text-align: center;
     color: #FFFFFF;
+}
+.intro_btn_text:hover{
+    font-family: Poppins , sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #22262A;
 }

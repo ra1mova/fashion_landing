@@ -3,6 +3,12 @@
 }
 .btn{
     border: none;
+    transition-duration: 0.5s;
+}
+.btn:hover{
+    border-radius: 30px;
+    border: 2px solid gray;
+    background-color: rgb(129, 171, 196);
 }
 .box{
     display: flex;
